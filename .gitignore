@@ -1,0 +1,8 @@
+*.png
+*.jpg
+*.jpeg
+
+/tesseract-ocr
+/tesseract-ocr/
+/__pycache__
+/__pycache__/
